@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @codxJC
 - 👀 I’m interested in web and software development and ServiceNow...
 - 🌱 I’m currently a student at Codecademy studying the software engineer path.
-- 💞️ I am addicted to code. I wish I new earlier how much I would love it. 
+- 🥇 Also improving my skills in ServiceNow.
+- 💞️ I love to code. I wish I new earlier how much I would love it. 
 - 📫 How to reach me ...
 
 <!---
