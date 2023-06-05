@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @codxJC
-- 👀 I’m interested in web and software development and ServiceNow...
-- 🌱 I’m currently a student at Codecademy studying the software engineer path.
-- 🥇 Also improving my skills in ServiceNow.
-- 💞️ I love to code. I wish I new earlier how much I would love it. 
-- 📫 How to reach me ...
-
+- 👀 I’m interested in ServiceNow, and web and software development.
+- 🥇 I’m a NextGen ServiceNow graduate.
+- Also, a student at Codecademy studying the software engineer path at my free time, 
+- which will also help me to advance my skills in ServiceNow
+- either as a system administartor/configurator or developer.
 <!---
 codxJC/codxJC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
